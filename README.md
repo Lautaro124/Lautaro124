@@ -1,10 +1,4 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg"> 
-    
-<foreignObject width="100%" height="100%">
-
-<div xmlns="http://www.w3.org/1999/xhtml">
-
-<style>
+<!-- <style>
     .flex{
         display: flex;
         flex-direction: row;
@@ -33,10 +27,9 @@
     h2{
         font-size: 2rem;
     }
-
-</style>
+</style> -->
 <img src="./SRC/Hola, Mucho gusto.gif"/>
-
+<!-- 
 <h1>Estos son mis proyectos:</h1>
 
 <div class='vo'>
@@ -50,9 +43,4 @@
         <img class='im' src="./SRC/create.png"/>
         <img class='im' src="./SRC/ord.png"/>
     </div>
-</div>
-
-</div>
-</foreignObject>
-
-</svg>
+</div> -->
