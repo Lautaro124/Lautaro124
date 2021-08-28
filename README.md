@@ -1,4 +1,4 @@
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <img src="./SRC/Hola, Mucho gusto.gif"/>
 
 <h1>:memo: Description :memo:</h1>
@@ -23,5 +23,6 @@
 <h2>:boom: HTML  </h2>
 
 <h1>:calling: Contact me :calling:</h1>
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lautaro-gabriel-gonzalez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/lautaro-gabriel-gonzalez?trk=profile-badge">Lautaro Gonzalez</a></div>
+              
 <a src='https://www.linkedin.com/in/lautaro-gabriel-gonzalez'> <img width='10%' height='10%' src='https://image.flaticon.com/icons/png/512/174/174857.png'/> </a>
