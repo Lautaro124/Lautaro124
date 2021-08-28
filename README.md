@@ -19,4 +19,4 @@
 
 <h1>:calling: Contact me :calling:</h1>
 
-<a hreft='https://www.linkedin.com/in/lautaro-gabriel-gonzalez'> <img width='10%' height='10%' src='https://image.flaticon.com/icons/png/512/174/174857.png'/> </a>
+<a src='https://www.linkedin.com/in/lautaro-gabriel-gonzalez'> <img width='10%' height='10%' src='https://image.flaticon.com/icons/png/512/174/174857.png'/> </a>
