@@ -4,11 +4,11 @@
 <h1>:memo: Description :memo:</h1>
 
 <h4> Hello, my name is lautaro :raising_hand:</h4>
-<h5> 
+<h4> 
     I'm 21 years old, and I am a full stack developer.<br/>
     I've been told I am a very proactive person, curious and creative when it comes to troubleshooting.<br/>
-    I'm not quite sure what is it that I like so much about programming, but when I built my first web page, I loved it.
-</5>
+    I'm not quite sure what is it that I like so much about programming, but when I built my first web page, I loved it :heart:.
+</h4>
 
 
 
