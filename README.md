@@ -4,18 +4,23 @@
 <h1>:memo: Description :memo:</h1>
 
 <h4> Hello, my name is lautaro :raising_hand:</h4>
-<p> I have 21 years old, and i am full stack developer.</p>
+<h5> 
+    I'm 21 years old, and I am a full stack developer.<br/>
+    I've been told I am a very proactive person, curious and creative when it comes to troubleshooting.<br/>
+    I'm not quite sure what is it that I like so much about programming, but when I built my first web page, I loved it.
+</5>
 
 
 
 <h1> :mortar_board: Programming languages :mortar_board: </h1> 
-<h2>:boom: React  <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png'/> </h2>
-<h2>:boom: React Native <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png'/></h2>
-<h2>:boom: Express <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png'/></h2>
-<h2>:boom: Sequelize <img width='7%' height='7%' src='https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg'/></h2>
-<h2>:boom: Css <img width='7%' height='7%' src='https://img.icons8.com/color/452/css3.png'/></h2>
-<h2>:boom: NodeJS <img width='7%' height='7%' src='https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg'/></h2>
-<h2>:boom: HTML <img width='7%' height='7%' src='https://clipground.com/images/html-logo-png-3.png'/> </h2>
+<div> <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png'/><h2>:boom: React </h2></div>
+<div> <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png'/> <h2>:boom: React Native</h2> </div>
+<div> <img width='7%' height='7%' src='https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png'/> <h2>:boom: Express </h2></div>
+<div> <img width='7%' height='7%' src='https://brandslogos.com/wp-content/uploads/thumbs/sequelize-logo-vector.svg'/> <h2>:boom: Sequelize </h2></div>
+<div> <img width='7%' height='7%' src='https://img.icons8.com/color/452/css3.png'/> <h2>:boom: Css</h2></div>
+<div> <img width='7%' height='7%' src='https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg'/> <h2>:boom: NodeJS </h2></div>
+<div> <img width='7%' height='7%' src='https://clipground.com/images/html-logo-png-3.png'/> <h2>:boom: HTML  </h2></div>
+<h2>:boom: HTML  </h2>
 
 <h1>:calling: Contact me :calling:</h1>
 
