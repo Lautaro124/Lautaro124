@@ -3,7 +3,7 @@
 
 <h1>:memo: Description :memo:</h1>
 
-<h4> Hello, my name is lautaro :raising_hand:</h4>
+<h4> Hello, my name is Lautaro :raising_hand:</h4>
 <h4> 
     I'm 21 years old, and I am a full stack developer.<br/>
     I've been told I am a very proactive person, curious and creative when it comes to troubleshooting.<br/>
@@ -20,7 +20,6 @@
 <div> <img width='7%' height='7%' src='https://img.icons8.com/color/452/css3.png'/> <h2>:boom: Css</h2></div>
 <div> <img width='7%' height='7%' src='https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg'/> <h2>:boom: NodeJS </h2></div>
 <div> <img width='7%' height='7%' src='https://clipground.com/images/html-logo-png-3.png'/> <h2>:boom: HTML  </h2></div>
-<h2>:boom: HTML  </h2>
 
 <h1>:calling: Contact me :calling:</h1>
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lautaro-gabriel-gonzalez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/lautaro-gabriel-gonzalez?trk=profile-badge">Lautaro Gonzalez</a></div>
