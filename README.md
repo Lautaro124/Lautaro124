@@ -22,6 +22,6 @@
 <div> <img width='7%' height='7%' src='https://clipground.com/images/html-logo-png-3.png'/> <h2>:boom: HTML  </h2></div>
 
 <h1>:calling: Contact me :calling:</h1>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lautaro-gabriel-gonzalez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/lautaro-gabriel-gonzalez?trk=profile-badge">Lautaro Gonzalez</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lautaro-gabriel-gonzalez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/lautaro-gabriel-gonzalez?trk=profile-badge">My LinkedIn</a></div>
               
-<a src='https://www.linkedin.com/in/lautaro-gabriel-gonzalez'> <img width='10%' height='10%' src='https://image.flaticon.com/icons/png/512/174/174857.png'/>
+[<img width='10%' height='10%' src='https://image.flaticon.com/icons/png/512/174/174857.png'/>](https://www.linkedin.com/in/lautaro-gabriel-gonzalez)
