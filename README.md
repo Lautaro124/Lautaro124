@@ -5,7 +5,7 @@
 
 <h4> Hello, my name is Lautaro :raising_hand:</h4>
 <h4> 
-    I am proactive, considerate and responsible.
+    I am proactive, considerate and responsible.\n
     I am always looking to improve in my field, and help my colleagues.
 </h4>
 
