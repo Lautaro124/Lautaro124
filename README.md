@@ -22,7 +22,7 @@ Full-stack developer with ~4 years of experience building web and mobile applica
 - 🔭 Currently building an enterprise metrics platform at **Konecta**
 - 🤖 Diving into **AI integration** — LLMs, RAG and function calling
 - 🌎 Open to **remote** opportunities (LATAM / global)
-- 🗣️ Spanish (native) · English (intermediate)
+- 🗣️ Spanish (native) · English (professional working, B2)
 
 ---
 
