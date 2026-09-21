@@ -17,7 +17,7 @@
 
 ### About me
 
-Full-stack developer with ~4 years of experience building web and mobile applications with **React, Next.js (App Router), TypeScript and NestJS** on microservices architectures. I care about clean API integrations, performance and frontend security.
+Full-stack developer with 4 years of experience building web and mobile applications with **React, Next.js (App Router), TypeScript and NestJS** on microservices architectures. I care about clean API integrations, performance and frontend security.
 
 - 🔭 Currently building an enterprise metrics platform at **Konecta**
 - 🤖 Diving into **AI integration** — LLMs, RAG and function calling
